@@ -1,0 +1,53 @@
+Q1. Develop a VI to convert minutes into hours and seconds. 
+    m = 60              s = 3600
+                        h = 1
+    m = 30              s = 1800
+                        h=0.5
+
+Q2. Create a VI to perform:   y = √2 * b + a^3 + log10(a * b) using functions and a formula node.
+    a = 2                y = 5.24
+    b = 5
+
+    a = 3                y = 7.00
+    b = 4
+
+
+
+Q3. Implement the Boolean logic: Y = (A' + (B ⊕ C))' · (D + B') and verify using a truth table.
+    A = 1               Y = 1
+    B = 0
+    C = 0
+    D = 1
+
+    A = 0               Y = 0
+    B = 1
+    C = 1
+    D = 1
+
+
+
+Q4. Build a VI to calculate parking charges based on duration of parking with separate time-based tariff structures for:
+   - Two-wheelers (off)
+   - Four-wheelers(on)
+   Use a toggle switch to select the vehicle type.
+
+    toggle: off          charge = 300
+    time = 3
+
+    toggle: on           charge = 400
+    time = 2
+
+Q5. Create a VI to find the magnitude and phase angle of a complex number.
+    complex number = 3+4i       
+    magnitude = 5
+    phase angle = 53.1201
+
+    complex number = 16+9i       
+    magnitude = 18.3576
+    phase angle = 29.3578
+
+
+
+
+
+

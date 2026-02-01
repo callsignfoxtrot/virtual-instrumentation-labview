@@ -1,0 +1,27 @@
+Q1. Find the sum of first ‘N’ odd numbers.
+    n=5                sum=25
+    n=2                sum=4
+
+Q2. Create a VI to animate a horse running. Use the picture ring control to insert and display
+pictures to be animated.
+    Horse animation process is executing in a continuous loop.
+
+Q3. Create a program for finding the factorial of a number and use this as subVI to compute NPr
+and NCr.
+    N=5                NPr=120
+    r=4                NCr=5
+
+    N=6                NPr=720
+    r=4                NCr=15
+
+Q4. Compute the sum of digits of a given integer using for loop.
+    #3 Digit numbers
+    n=100              sum=1
+    n=575              sum=17
+
+Q5. Find the sum of values lying between ‘P’ and ‘Q’. Where ‘P’ and ‘Q’ are positive integers
+and P>Q.
+    P=5                sum=7
+    Q=2
+    P=7                sum=11
+    Q=4
