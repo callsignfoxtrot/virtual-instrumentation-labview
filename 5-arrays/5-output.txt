@@ -1,0 +1,30 @@
+Q1. Display 10 random integers between 2 and 50.
+	array: 49 12 29 32 37 25 29 21 33 47
+
+	array: 11 47 29 16 10 11 33 47 4 3
+
+
+Q2. Count the number of elements greater than a given value in an array.
+	array: 5 4 7 9 3
+	threshold: 4
+	count: 3
+
+	array: 9 7 0 17 2
+	threshold: 10
+	count: 0
+
+
+Q3. Find the sum of both diagonals of a square matrix without built in functions.
+
+
+Q4. Write a program to arrange a given set of number in ascending and descending order.
+
+
+Q5. Develop a VI that counts how many numbers in an array are even and how many are odd.
+	array: 0 2 4 5 6
+	odd: 4
+	even: 2
+
+	array: 100 21 38 49 54 67
+	odd: 3
+	even: 3
