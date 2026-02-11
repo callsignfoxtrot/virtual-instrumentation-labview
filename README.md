@@ -9,3 +9,9 @@ This repository contains LabVIEW experiments designed to introduce and develop s
 - Perform arithmetic and logical operations using LabVIEW
 - Implement modular programming using subVIs
 - Apply loops and shift registers for iterative computations
+- Perform array operations
+– Work with clusters and graphical display elements
+– Implement string handling and file I/O operations
+– Use programming structures effectively
+– Apply IMAQ and Vision Toolbox concepts
+– Work with Control and Simulation Toolbox
