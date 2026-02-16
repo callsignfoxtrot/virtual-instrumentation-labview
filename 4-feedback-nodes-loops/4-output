@@ -1,0 +1,13 @@
+1. Design a VI to display the previous and current values of a continuously changing
+signal using feedback node.
+    current: 239            previous: 139
+    current: 908            previous: 579
+
+2. Create a VI where two loops run in parallel and share a threshold value.
+    threshold: 3
+    threshold: 12
+
+3. Create a VI which converts a decimal number to a binary number (displayed in
+numeric indicator).
+    decimal: 2              binary: 10
+    decimal: 22             binary: 10110
