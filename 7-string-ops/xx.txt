@@ -1,0 +1,1 @@
+this is a sample text file for labview lab 7, exercise two. it contains lowercase letters that will be converted to uppercase.
