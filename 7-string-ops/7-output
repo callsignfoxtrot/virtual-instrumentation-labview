@@ -1,0 +1,40 @@
+1. Find the length of the given string A, if its length is less than ‘N’ concatenate string A with string B. Then find the final length. 
+N: 4                    OUTPUT: hello
+A: hello                LENGTH: 5
+B: bello
+
+N: 7                    OUTPUT: hellobello
+A: hello                LENGTH: 10
+B: bello
+
+
+2. Read the string from file xx.txt convert the text in the file to uppercase and store the resultant in yy.txt.
+input path: xx.txt
+this is a sample text file for labview lab 7, exercise two. it contains lowercase letters that will be converted to uppercase.
+
+output path: yy.txt
+THIS IS A SAMPLE TEXT FILE FOR LABVIEW LAB 7, EXERCISE TWO. IT CONTAINS LOWERCASE LETTERS THAT WILL BE CONVERTED TO UPPERCASE.
+
+3. Count the number of spaces in a given string.
+String: hello jello bello
+Count: 2
+
+String: 1 2 3 4 5 6 7 8 9 0
+Count: 9
+
+4. Count the number of characters in a text file.
+Path: zz.txt
+text: hello world! crazy day!
+length: 23
+length without spaces:  20
+
+5. Replace all occurrences of a given character with another character in a string.
+source: hello bello jello
+search: l
+replacement: b
+result string: hebbo bebbo jebbo
+
+source: 1 2 3 4 5 6 7 8 9 0
+search: <space>
+replacement: *
+result string: 1*2*3*4*5*6*7*8*9*0
