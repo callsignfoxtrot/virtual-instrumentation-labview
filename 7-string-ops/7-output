@@ -7,7 +7,6 @@ N: 7                    OUTPUT: hellobello
 A: hello                LENGTH: 10
 B: bello
 
-
 2. Read the string from file xx.txt convert the text in the file to uppercase and store the resultant in yy.txt.
 input path: xx.txt
 this is a sample text file for labview lab 7, exercise two. it contains lowercase letters that will be converted to uppercase.
